@@ -17,3 +17,11 @@ get shell script to pull docker image and replace origin tag
     > docker tag kubernets/spinnaker-deck:2.1.0-20180221143146 gcr.io/spinnaker-marketplace/deck:2.1.0-20180221143146 
 
     > docker rmi kubernets/spinnaker-deck:2.1.0-20180221143146
+
+- [**all** 2.4.1-20180824212434](https://hub.docker.com/r/kubernets/spinnaker-deck)
+
+    > docker pull kubernets/spinnaker-deck:2.4.1-20180824212434
+
+    > docker tag kubernets/spinnaker-deck:2.4.1-20180824212434 gcr.io/spinnaker-marketplace/deck:2.4.1-20180824212434 
+
+    > docker rmi kubernets/spinnaker-deck:2.4.1-20180824212434
